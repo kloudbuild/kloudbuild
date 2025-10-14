@@ -31,8 +31,8 @@ We are a next-generation **Cloud, DevOps, and AI training & consulting company**
 ---
 
 ## 🧰 Tech Stack We Love
-`AWS` • `Azure` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `GitHub Actions`  
-`Helm` • `Prometheus` • `Grafana` • `MLOps` • `AI for DevOps` • `SRE` • `GitOps`
+`AWS` • `Azure` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `Git & GitHub` • `GitHub Actions`  
+`Helm` • `Prometheus` • `Grafana` • `MLOps` • `AI for DevOps` • `SRE` • `GitOps` • `Linux` • `Networking`
 
 ---
 
