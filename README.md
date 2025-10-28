@@ -2,8 +2,7 @@
 
 # 👋 Welcome to **KloudBuild Technologies**
 
-#### 🚀 Empowering Next-Gen Cloud, DevOps & AI Engineers  
-**Learn. Build. Deploy. Innovate.**
+### 🚀 Empowering Next-Gen Cloud, DevOps & AI Engineers | **Learn. Build. Deploy. Innovate.**
 
 ---
 
