@@ -1,65 +1,65 @@
-<!-- KloudBuild | GitHub Profile README -->
+👋 **Welcome to KloudBuild Technologies**
 
-# 👋 Welcome to **KloudBuild Technologies**
-
-#### 🚀 Empowering Next-Gen Cloud, DevOps & AI Engineers | Learn. Build. Deploy. Innovate.
-
-We are a next-generation **Cloud, DevOps, and AI training & consulting company** empowering engineers and organizations to master modern infrastructure automation.
-
-🌩️ **KloudBuild Technologies** brings together hands-on learning, real-world projects, and enterprise consulting expertise to help you thrive in the cloud-native world.
+🚀 *Empowering Next-Gen Cloud, DevOps & AI Engineers*  
+**Learn. Build. Deploy. Innovate.**
 
 ---
 
-## 💡 What We Do
+### 🌩️ About Us
+**KloudBuild Technologies** is a next-generation **Cloud, DevOps, and AI training & consulting company** empowering engineers and organizations to master modern infrastructure automation.
 
-### 🎓 **KloudBuild Academy**
-> Upskilling the next generation of Cloud & DevOps Engineers.
+We bring together **hands-on learning**, **real-world projects**, and **enterprise consulting expertise** to help professionals and teams thrive in the cloud-native world.
 
-- Hands-on Training in **AWS**, **Azure**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **Ansible**, **CI/CD**, and **GitOps**  
+---
+
+### 💡 What We Do
+
+#### 🎓 KloudBuild Academy  
+Upskilling the next generation of Cloud & DevOps Engineers through:
+- Hands-on Training in **AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Ansible, CI/CD, GitOps**
 - **Project-Based Labs** built from real production scenarios  
 - **Certification Guidance:** AWS, Azure, CKA/CKAD  
-- **MLOps & AIOps** Workshops for modern cloud professionals  
+- **MLOps & AIOps Workshops** for modern cloud professionals  
+- **Corporate & On-Site Training** programs for teams
 
-### 🧠 **KloudBuild Consulting**
-> Empowering businesses with automation and cloud-native transformation.
-
-- Cloud Infrastructure Design & Migration (AWS | Azure | GCP)  
-- DevOps Implementation & CI/CD Pipelines  
-- Kubernetes Clusters & Infrastructure as Code (IaC)  
-- Observability, Monitoring, and Cost Optimization  
-
----
-
-## 🧰 Tech Stack We Love
-`AWS` • `Azure` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `Git & GitHub` • `GitHub Actions`  
-`Helm` • `Prometheus` • `Grafana` • `MLOps` • `AI for DevOps` • `SRE` • `GitOps` • `Linux` • `Networking`
+#### 🧠 KloudBuild Consulting  
+Empowering businesses with automation and cloud-native transformation:
+- **Cloud Infrastructure Design & Migration** (AWS | Azure | GCP)  
+- **DevOps Implementation & CI/CD Pipelines**  
+- **Kubernetes Clusters & Infrastructure as Code (IaC)**  
+- **Observability, Monitoring & Cost Optimization**  
+- **Corporate Upskilling** for enterprise DevOps adoption  
 
 ---
 
-## 🌐 Our Ecosystem
+### 🧰 Tech Stack We Love
+AWS • Azure • Docker • Kubernetes • Terraform • Ansible • Jenkins • Git & GitHub • GitHub Actions  
+Helm • Prometheus • Grafana • MLOps • AI for DevOps • SRE • GitOps • Linux • Networking  
+
+---
+
+### 🌐 Our Ecosystem
 | Brand | Focus Area | Description |
-|--------|-------------|--------------|
+|--------|-------------|-------------|
 | **KloudBuild Technologies** | Core Brand | Cloud, DevOps & AI Training & Consulting |
 | **KloudBuild Academy** | Learning Division | Professional Upskilling in Cloud & DevOps |
 | **KloudBuild Consulting** | Business Division | Cloud Automation & Infrastructure Consulting |
 
 ---
 
-## 📈 Our Mission
-> To build a generation of engineers who can **Learn, Build, Deploy, and Innovate** confidently in the cloud.
-
-We believe in transforming engineers into builders — empowering them with skills, projects, and tools that shape the future of cloud-native engineering.
+### 📈 Our Mission
+To build a generation of engineers who can **Learn, Build, Deploy, and Innovate confidently in the cloud.**  
+We believe in transforming engineers into builders — empowering them with **skills, projects, and tools** that shape the future of cloud-native engineering.
 
 ---
 
-## 🌍 Connect With Us
+### 🌍 Connect With Us
+🌐 **Website:** [www.kloudbuild.com](https://www.kloudbuild.com)  
+📧 **Email:** info@kloudbuild.com  
+🔗 **LinkedIn:** [linkedin.com/company/kloudbuild](https://www.linkedin.com/company/kloudbuild)  
+📺 **YouTube:** [youtube.com/@kloudbuild](https://www.youtube.com/@kloudbuild)
 
-🌐 Website: [www.kloudbuild.com](https://www.kloudbuild.com)  
-📧 Email: [info@kloudbuild.com](mailto:info@kloudbuild.com)  
-🔗 LinkedIn: [linkedin.com/company/kloudbuild](https://linkedin.com/company/kloudbuild)  
-📺 YouTube: [youtube.com/@kloudbuild](https://youtube.com/@kloudbuild)
-
-📍 Hyderabad, India — Serving clients globally  
+📍 *Hyderabad, India — Serving clients globally*
 
 ---
 
@@ -69,12 +69,9 @@ We welcome partnerships for:
 - Cloud architecture & DevOps automation projects  
 - Open-source collaborations and lab development  
 
----
+🏗️ **#LearnBuildDeploy**  
+Empowering the next generation of Cloud, DevOps, and AI engineers.
 
-### 🏗️ #LearnBuildDeploy
-> _Empowering the next generation of Cloud, DevOps, and AI engineers._
+© 2025 **KloudBuild Technologies**
 
----
-
-**© 2025 KloudBuild Technologies**  
 #KloudBuild #CloudComputing #DevOps #AI #Kubernetes #LearnBuildDeploy #InfrastructureAutomation #AIOps #MLOps
